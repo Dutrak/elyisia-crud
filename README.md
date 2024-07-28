@@ -36,5 +36,5 @@ bun run index.ts
   - DELETE  /users/:id -> Delete a user
 
 ### Docs
-  - GET /docs -> Use with browser to acces documentation page
+  - GET /docs -> Use with browser to access documentation page
   - GET /docs/json -> Get JSON docs data
